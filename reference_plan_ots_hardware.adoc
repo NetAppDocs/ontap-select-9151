@@ -126,6 +126,7 @@ Premium XL
 [NOTE]
 There are additional disk requirements based on the platform license. See link:reference_plan_ots_storage.html[Storage and RAID] for more information.
 
+// 2024 NOV 12, ONTAPDOC-2540
 // 2023-APR-12, ONTAPDOC-979
 // 2023-SEP-25, ONTAPDOC-1204
 // 2023-OCT-17, Updated table headings
