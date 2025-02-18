@@ -19,6 +19,9 @@ You need to install the ONTAP Select Deploy administration utility and use the u
 
 You can download the ONTAP Select package from the NetApp support site.
 
+.Before you begin
+https://mysupport.netapp.com/site/user/registration[You have a registered NetApp Support Site account^].
+
 .About this task
 The ONTAP Select Deploy administration utility is packaged as a virtual machine (VM) based on the Open Virtualization Format (OVF) standard. The single compressed file has the suffix `ova`. The VM provides the Deploy server and installation images for ONTAP Select nodes.
 
@@ -204,6 +207,7 @@ You should sign in to the web user interface to confirm the Deploy utility is av
 
 link:task_cli_signing_in.html[Sign in to Deploy using SSH]
 
+// 2025 JAN 17, ONTAPDOC-2556
 // 2023-09-07, ONTAPDOC-1330
 // 2023-09-27, ONTAPDOC-1204
 // 2023-10-17, Removed mention of old OTS versions
