@@ -1,0 +1,4 @@
+--- 
+permalink: concept_automate_ansible.html
+redirect: ontap-select-9151/index.html
+---
