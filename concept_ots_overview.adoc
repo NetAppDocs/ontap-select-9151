@@ -94,12 +94,16 @@ Modifying the properties of the ONTAP ports, including speed, duplex, and flow-c
 
 * SnapLock Compliance
 
+* SnapMirror active sync
+
 * VMware HCX
 
 .Related information
 
 * link:reference_lic_ontap_features.html[ONTAP features enabled by default]
 
+
+// 2025 NOV 26, ONTAPDOC-3317
 // 2024 NOV 12, ONTAPDOC-2540
 // 2024 AUG 12, ONTAPDOC-2283
 // 2024 Apr 15, ONTAPDOC-1892
