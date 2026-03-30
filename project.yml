@@ -12,10 +12,8 @@ settings:
   versions:
     - version-number: "9.15.1"
       url: /ontap-select-9151 
-    - version-number: "9.19.1"
-      url: /ontap-select 
     - version-number: "9.18.1"
-      url: /ontap-select-9181
+      url: /ontap-select 
     - version-number: "9.17.1"
       url: /ontap-select-9171            
     - version-number: "9.16.1"
