@@ -1,5 +1,5 @@
 indexpage:
-  title: ONTAP Select 9.15.1
+  title: ONTAP Select documentation
   lead: "NetApp ONTAP Select is a software-defined storage appliance you can deploy on a variety of commodity hardware servers running the VMware ESXi or Kernel-based Virtual Machine (KVM) hypervisor. It provides the agility you need to build a flexible and scalable private cloud infrastructure. This site contains the documentation for ONTAP Select 9.15.1."
   summary: "NetApp ONTAP Select is a software-defined storage appliance you can deploy on a variety of commodity hardware servers running the VMware ESXi or Kernel-based Virtual Machine (KVM) hypervisor. It provides the agility you need to build a flexible and scalable private cloud infrastructure. This site contains the documentation for ONTAP Select 9.15.1."
   keywords: ontap select, 9151, concept, reference, task, documentation, release notes, install, deploy, upgrading, workflow, migrate, security, admin, operation, compare, production, platforms 
